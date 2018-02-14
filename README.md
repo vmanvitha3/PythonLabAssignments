@@ -14,7 +14,7 @@ Source Code & Documentation: https://github.com/vmanvitha3/PythonLabAssignments/
 Wiki Page: https://github.com/vmanvitha3/PythonLabAssignments/wiki/LabAssignment2
 
 
-Assignment 2:
+Assignment 3:
 
 Source Code & Documentation: 
 
