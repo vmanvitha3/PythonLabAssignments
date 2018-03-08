@@ -16,6 +16,6 @@ Wiki Page: https://github.com/vmanvitha3/PythonLabAssignments/wiki/LabAssignment
 
 Assignment 3:
 
-Source Code & Documentation: 
+Source Code & Documentation: https://github.com/vmanvitha3/PythonLabAssignments/tree/master/LabAssignment3
 
-Wiki Page: 
+Wiki Page: https://github.com/vmanvitha3/PythonLabAssignments/wiki/LabAssignment3
